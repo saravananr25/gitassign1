@@ -1,0 +1,6 @@
+this is the log file
+used for assignment purpose
+---
+test
+sdfsd
+f
